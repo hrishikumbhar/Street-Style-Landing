@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 :- Street Style Landing Page
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
