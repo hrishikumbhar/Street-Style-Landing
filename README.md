@@ -1,4 +1,4 @@
-# Assignment 1
+# Project 1
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 1 [Link Link](https://street-style-landing.netlify.app/)
+### Project Link : [Link](https://street-style-landing.netlify.app/)
 
 ### What I Learned from this Project?
 
